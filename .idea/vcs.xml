@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CASE-STUDY-MD2-22-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TeachReactAll" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exrouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-async-thunk-example" vcs="Git" />
+  </component>
+</project>
